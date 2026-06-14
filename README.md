@@ -8,7 +8,7 @@ Built using:
 - Gemini 2.5 Flash
 - Gradio
 - Hugging Face Spaces
-100 pages indexed
+-100 pages indexed
 950 chunks generated
 88% retrieval accuracy
 Public deployment
