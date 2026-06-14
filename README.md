@@ -10,5 +10,5 @@ Built using:
 - Hugging Face Spaces
 100 pages indexed
 950 chunks generated
-68% retrieval accuracy
+88% retrieval accuracy
 Public deployment
